@@ -64,6 +64,7 @@ Here is why they matter:
 4. ****Regulatory Compliance (KYC/AML):**** In regulated DeFi or asset tokenization, smart contracts can require users to complete   Know Your Customer (KYC), and only upon completion is their address added to the whitelist. This ensures compliance with regulations.
 
 ### Key Use Cases of Whitelist Smart Contracts
+* ****NFT Minting (Early Access):****
 
 ## Security Considerations
 
