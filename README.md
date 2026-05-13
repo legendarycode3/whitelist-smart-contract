@@ -61,6 +61,7 @@ Here is why they matter:
 1. ****Security & Risk Reduction:****
 2. ****Preventing Bot Attacks & Gas Wars:****
 3. ****Managing Exclusivity & Community Loyalty:****
+4. ****Regulatory Compliance (KYC/AML):****
 
 ## Security Considerations
 
