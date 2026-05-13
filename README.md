@@ -23,7 +23,7 @@
 * ****Improved Smart Contract Security:**** Only the owner can manage whitelist permissions.
 * ****Controlled User Participation:**** The owner decides which wallets are approved.
 * ****Efficient Address Verification:**** The contract uses a mapping for whitelist storage.
-* ****Transparent Activity Tracking:****
+* ****Transparent Activity Tracking:**** Events are emitted whenever addresses are added or removed.
 
 ## 📂 Project Structure (Files)
 * ****`WhiteList.sol`****:  The main contract implementing addAddress(), removeAddress() and isWhiteListed() functions.
