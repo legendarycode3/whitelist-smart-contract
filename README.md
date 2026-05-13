@@ -25,7 +25,7 @@
 * ****Efficient Address Verification:**** The contract uses a mapping for whitelist storage.
 * ****Transparent Activity Tracking:**** Events are emitted whenever addresses are added or removed.
 * ****Easy Permission Revocation:**** Addresses can be removed from the whitelist at any time.
-* ****Ownership Protection:****
+* ****Ownership Protection:**** The owner address is immutable after deployment.
 
 ## 📂 Project Structure (Files)
 * ****`WhiteList.sol`****:  The main contract implementing addAddress(), removeAddress() and isWhiteListed() functions.
