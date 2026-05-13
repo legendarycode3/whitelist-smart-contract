@@ -35,9 +35,12 @@
 ### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
 1. Clone the repository:
    ```shell
-    git clone https://github.com/legendarycode3/student-registry-smart-contract
+    git clone https://github.com/legendarycode3/whitelist-smart-contract
    ```
 2. Navigate to the directory you created and cloned the file to:
+   ```shell
+      cd whitelist-smart-contract
+    ```
 
 ## Why This Matters (Whitelist Smart Contract)
 
