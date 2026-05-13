@@ -43,6 +43,8 @@
 
 ## 📋Contract Details
 ### Functions:
+* ****`constructor()`****:
+
 ### Variables:
 
 ## ** Usage Guide (How to use - When using Remix IDE)**
