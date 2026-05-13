@@ -4,6 +4,8 @@
 * ****Access Control:**** The contract restricts certain actions to approved addresses only.
 * ****Owner Management System:****
 
+## Benefits
+
 ## 🧠 Key Concepts Applied
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
 * ****Modifier:**** Access-Control for `onlyOwner` to access the details.
