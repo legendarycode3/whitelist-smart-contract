@@ -63,6 +63,8 @@ Here is why they matter:
 3. ****Managing Exclusivity & Community Loyalty:**** They allow projects to reward early adopters, community contributors, or dedicated investors with early access to token sales, airdrops, or NFT drops.
 4. ****Regulatory Compliance (KYC/AML):**** In regulated DeFi or asset tokenization, smart contracts can require users to complete   Know Your Customer (KYC), and only upon completion is their address added to the whitelist. This ensures compliance with regulations.
 
+### Key Use Cases of Whitelist Smart Contracts
+
 ## Security Considerations
 
 ## Foundry
