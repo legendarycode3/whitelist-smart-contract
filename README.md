@@ -9,7 +9,7 @@
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)****  - The programming language for writing the Smart contracts.
 * ****[Remix IDE](https://remix.ethereum.org/)****
-* ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)****
+* ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)****  - Development framework and testing suite.
 * ****[Visual Studio Code](https://code.visualstudio.com/)**** - Install this IDE only if you are using foundry development kit rather than "Remix IDE" which is for quick prototying.
 
 
