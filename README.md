@@ -21,7 +21,7 @@
 
 ## Benefits
 * ****Improved Smart Contract Security:**** Only the owner can manage whitelist permissions.
-* ****Controlled User Participation:****
+* ****Controlled User Participation:**** The owner decides which wallets are approved.
 
 ## 📂 Project Structure (Files)
 * ****`WhiteList.sol`****:  The main contract implementing addAddress(), removeAddress() and isWhiteListed() functions.
