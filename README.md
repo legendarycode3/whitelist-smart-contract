@@ -69,6 +69,7 @@ Here is why they matter:
 * ****Airdrop Distribution:****
 * ****Restricted DeFi Protocols:****
 * ****Secure Asset Withdrawals:****
+* ****Governance Participation:****
 
 
 ## Security Considerations
