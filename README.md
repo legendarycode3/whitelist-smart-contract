@@ -67,6 +67,7 @@ Here is why they matter:
 * ****NFT Minting (Early Access):****  Projects use whitelists to give dedicated community members the chance to mint NFTs before the public sale, often at a lower price.
 * ****ICO/IDOs (Token Sales):****
 * ****Airdrop Distribution:****
+* ****Restricted DeFi Protocols:****
 
 
 ## Security Considerations
