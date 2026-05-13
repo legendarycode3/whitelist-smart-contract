@@ -56,7 +56,7 @@
 ## ** Usage Guide (How to use - When using Remix IDE)**
 
 ## Why This Matters (Whitelist Smart Contract)
-Whitelist Smart Contracts (or Allowlist Smart Contracts) in Web3 are critical because they reverse the "open by default" nature of public blockchains, enabling developers to explicitly pre-approve specific wallet addresses for interaction with a contract.
+Whitelist Smart Contracts (or Allowlist Smart Contracts) in Web3 are critical because they reverse the "open by default" nature of public blockchains, enabling developers to explicitly pre-approve specific wallet addresses for interaction with a contract. They act as a security and access control mechanism that ensures only vetted, verified, or
 
 ## Security Considerations
 
