@@ -8,6 +8,7 @@
 * ****Data types:****  Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
 * ****Custom Error:**** Defined and used custom errors, for gas optimation.
 * ****msg.sender:****  Records who owns the address(e.g the owner).
+* ****address (keyword):****
 
 ## 📂 Project Structure (Files)
 
