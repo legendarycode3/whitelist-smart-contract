@@ -10,7 +10,7 @@
 * ****[Solidity](https://www.soliditylang.org/)****  - The programming language for writing the Smart contracts.
 * ****[Remix IDE](https://remix.ethereum.org/)****
 * ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)****
-
+* ****[Visual Studio Code](https://code.visualstudio.com/)****
 
 
 ## Getting Started
