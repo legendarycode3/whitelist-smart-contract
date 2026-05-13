@@ -66,6 +66,7 @@ Here is why they matter:
 ### Key Use Cases of Whitelist Smart Contracts
 * ****NFT Minting (Early Access):****  Projects use whitelists to give dedicated community members the chance to mint NFTs before the public sale, often at a lower price.
 * ****ICO/IDOs (Token Sales):****
+* ****Airdrop Distribution:****
 
 
 ## Security Considerations
