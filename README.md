@@ -5,7 +5,7 @@
 * ****Owner Management System:**** Only the contract owner can manage the whitelist.
 * ****Whitelist Address Storage:**** Uses a mapping for storing approved addresses.
 * ****Gas Optimization with Custom Errors:**** Uses custom errors instead of long revert strings.
-* ****Event Logging:****
+* ****Event Logging:**** The contract emits events whenever addresses are added or removed.
 
 ## Benefits
 
