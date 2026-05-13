@@ -27,6 +27,7 @@
 ## 📋Contract Details
 
 ## Usage Guide (How to use - When using Remix IDE)
+### Building the Project (Using Remix IDE):
 
 ## Why This Matters (Whitelist Smart Contract)
 
