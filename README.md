@@ -12,7 +12,7 @@
 
 ## 📂 Project Structure (Files)
 * ****`WhiteList.sol`****:  The main contract implementing addAddress(), removeAddress() and isWhiteListed() functions.
-* ****`WhiteList.t.sol`****:
+* ****`WhiteList.t.sol`****:  Unit Test (suite) containing tests to validate contract functionalities.
 
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)****  - The programming language for writing the Smart contracts.
