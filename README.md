@@ -51,6 +51,7 @@
 
 ### Variables:
 * ****`i_owner`****:
+* ****`s_whitelistedAddress`****:
 
 ## ** Usage Guide (How to use - When using Remix IDE)**
 
