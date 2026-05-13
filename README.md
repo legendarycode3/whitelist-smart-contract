@@ -67,7 +67,7 @@ Here is why they matter:
 * ****NFT Minting (Early Access):****  Projects use whitelists to give dedicated community members the chance to mint NFTs before the public sale, often at a lower price.
 * ****ICO/IDOs (Token Sales):****
 * ****Airdrop Distribution:**** 
-* ****Restricted DeFi Protocols:**** Some decentralized finance platforms limit participation
+* ****Restricted DeFi Protocols:**** Some decentralized finance platforms limit participation (e.g., in a high-yield pool) to verified institutional investors or whitelisted, compliant wallets.
 * ****Secure Asset Withdrawals:**** Exchanges and custody solutions use whitelists to ensure funds can only be withdrawn to pre-approved, secure wallet addresses, preventing attackers from draining funds to an unknown address.
 * ****Governance Participation:**** Restricting voting rights to trusted stakeholders within a decentralized autonomous organization (DAO) to ensure high-quality, long-term decision-making.
 
