@@ -9,7 +9,7 @@
 * ****Custom Error:**** Defined and used custom errors, for gas optimation.
 * ****msg.sender:****  Records who owns the address(e.g the `owner`).
 * ****address (keyword):****  Stores the address of the contract deployer.
-* ****Events:**** Emitted when an account is added to the whitelist.  Used events to ensure 
+* ****Events:**** Emitted when an account is added to the whitelist.  Used events to ensure transparency in who has been added or removed from the whitelist.
 
 ## 📂 Project Structure (Files)
 * ****`WhiteList.sol`****:  The main contract implementing addAddress(), removeAddress() and isWhiteListed() functions.
