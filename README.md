@@ -4,6 +4,7 @@
 
 ## 🧠 Key Concepts Applied
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
+* ****Modifier:****
 
 ## 📂 Project Structure (Files)
 
