@@ -42,6 +42,7 @@
       cd whitelist-smart-contract
     ```
 3.   Compile the smart contract:
+       `forge build`
 
 ## Why This Matters (Whitelist Smart Contract)
 
