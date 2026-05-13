@@ -43,7 +43,7 @@
 
 ## 📋Contract Details
 ### Functions:
-* ****`constructor()`****:
+* ****`constructor()`****:  Function that sets the owner of the contract.
 
 ### Variables:
 
