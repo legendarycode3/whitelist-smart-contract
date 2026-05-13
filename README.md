@@ -51,7 +51,7 @@
 
 ### Variables:
 * ****`i_owner`****: Stores the address of the contract deployer. 
-* ****`s_whitelistedAddress`****:
+* ****`s_whitelistedAddress`****: Maps addresses to their whitelist status.
 
 ## ** Usage Guide (How to use - When using Remix IDE)**
 
