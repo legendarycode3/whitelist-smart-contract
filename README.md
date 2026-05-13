@@ -7,6 +7,7 @@
 * ****Modifier:**** Access-Control for `onlyOwner` to access the details.
 * ****Data types:****  Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
 * ****Custom Error:**** Defined and used custom errors, for gas optimation.
+* ****msg.sender:****
 
 ## 📂 Project Structure (Files)
 
