@@ -1,7 +1,7 @@
 ## Project Overview
 
 ## 📌 Features
-* ****Access Control:****
+* ****Access Control:**** The contract restricts certain actions to approved addresses only.
 * ****Owner Management System:****
 
 ## 🧠 Key Concepts Applied
