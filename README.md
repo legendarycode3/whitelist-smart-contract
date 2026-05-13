@@ -56,6 +56,7 @@
 ## ** Usage Guide (How to use - When using Remix IDE)**
 
 ## Why This Matters (Whitelist Smart Contract)
+Whitelist Smart Contracts (or Allowlist Smart Contracts) in Web3 are critical because
 
 ## Security Considerations
 
