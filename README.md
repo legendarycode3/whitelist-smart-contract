@@ -58,7 +58,8 @@
 ## Why This Matters (Whitelist Smart Contract)
 Whitelist Smart Contracts (or Allowlist Smart Contracts) in Web3 are critical because they reverse the "open by default" nature of public blockchains, enabling developers to explicitly pre-approve specific wallet addresses for interaction with a contract. They act as a security and access control mechanism that ensures only vetted, verified, or invited users can participate in high-demand, high-value, or regulated on-chain activities.
 Here is why they matter: 
-1. Security & Risk Reduction: 
+1. ****Security & Risk Reduction:****
+2. ****Preventing Bot Attacks & Gas Wars:****
 
 ## Security Considerations
 
