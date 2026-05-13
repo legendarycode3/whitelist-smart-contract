@@ -26,7 +26,7 @@
 * ****Transparent Activity Tracking:**** Events are emitted whenever addresses are added or removed.
 * ****Easy Permission Revocation:**** Addresses can be removed from the whitelist at any time.
 * ****Ownership Protection:**** The owner address is immutable after deployment.
-* ****Public Verification System:****
+* ****Public Verification System:**** Anyone can verify if an address is approved.
 
 ## 📂 Project Structure (Files)
 * ****`WhiteList.sol`****:  The main contract implementing addAddress(), removeAddress() and isWhiteListed() functions.
