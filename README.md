@@ -11,7 +11,7 @@
 * ****address (keyword):****  Stores the address of the contract deployer.
 
 ## 📂 Project Structure (Files)
-* ****`WhiteList.sol`****:
+* ****`WhiteList.sol`****:  The main contract implementing addAddress(), removeAddress() and isWhiteListed() functions.
 * ****`WhiteList.t.sol`****:
 
 ## 🌐Technology Stack (Technologies Used)
