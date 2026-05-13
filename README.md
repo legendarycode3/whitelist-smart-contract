@@ -6,8 +6,8 @@
 * ****Whitelist Address Storage:**** Uses a mapping for storing approved addresses.
 * ****Gas Optimization with Custom Errors:**** Uses custom errors instead of long revert strings.
 * ****Event Logging:**** The contract emits events whenever addresses are added or removed.
-* ****Immutable Owner Variable:****
-
+* ****Immutable Owner Variable:**** The owner address is immutable after deployment.
+ 
 ## Benefits
 
 ## 🧠 Key Concepts Applied
