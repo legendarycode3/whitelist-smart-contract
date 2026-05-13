@@ -18,7 +18,7 @@
 * ****msg.sender:****  Records who owns the address(e.g the `owner`).
 * ****address (keyword):****  Stores the address of the contract deployer.
 * ****Events:**** Emitted when an account is added to the whitelist.  Used events to ensure transparency in who has been added or removed from the whitelist.
-* ****Visibility Specifiers:****
+* ****Visibility Specifiers:**** Define accessibility and behavior of functions/variables.
 
 ## 📂 Project Structure (Files)
 * ****`WhiteList.sol`****:  The main contract implementing addAddress(), removeAddress() and isWhiteListed() functions.
