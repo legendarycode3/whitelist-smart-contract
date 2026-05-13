@@ -59,7 +59,7 @@
 Whitelist Smart Contracts (or Allowlist Smart Contracts) in Web3 are critical because they reverse the "open by default" nature of public blockchains, enabling developers to explicitly pre-approve specific wallet addresses for interaction with a contract. They act as a security and access control mechanism that ensures only vetted, verified, or invited users can participate in high-demand, high-value, or regulated on-chain activities.
 Here is why they matter: 
 1. ****Security & Risk Reduction:**** They prevent fraudulent activity by restricting interaction to trusted wallets, reducing the attack surface for hacks and phishing, and stopping malicious actors from exploiting contracts.
-2. ****Preventing Bot Attacks & Gas Wars:****
+2. ****Preventing Bot Attacks & Gas Wars:****  In high-demand NFT mints or Token Sales,
 3. ****Managing Exclusivity & Community Loyalty:****
 4. ****Regulatory Compliance (KYC/AML):**** In regulated DeFi or asset tokenization, smart contracts can require users to complete   Know Your Customer (KYC), and only upon completion is their address added to the whitelist. This ensures compliance with regulations.
 
