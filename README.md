@@ -6,6 +6,7 @@
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
 * ****Modifier:**** Access-Control for `onlyOwner` to access the details.
 * ****Data types:****  Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
+* ****Custom Error:****
 
 ## 📂 Project Structure (Files)
 
