@@ -9,6 +9,7 @@
 * ****Immutable Owner Variable:**** The owner address is immutable after deployment.
  
 ## Benefits
+* ****Improved Smart Contract Security:****
 
 ## 🧠 Key Concepts Applied
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
