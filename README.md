@@ -22,11 +22,8 @@
 ### Recommendation (For Beginners)
 ****NOTE (Use Remix IDE, for quick prototyping):****  You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code works while trying to build yours as you keep building. 
 
-## Usage
 
-## 📋Contract Details
-
-## Usage Guide (How to use - When using Remix IDE)
+## Usage 
 ### Building the Project (Using Remix IDE):
 1. Copy the core smart contract file code `StudentRegistry.sol` to Remix IDE (a browser based IDE, for quick prototyping).
 2. Create a new file for the project on your Remix IDE and paste , to learn and build along faster.
@@ -43,6 +40,10 @@
     ```
 3.   Compile the smart contract:
        `forge build`
+
+## 📋Contract Details
+
+## ** Usage Guide (How to use - When using Remix IDE)**
 
 ## Why This Matters (Whitelist Smart Contract)
 
