@@ -3,7 +3,7 @@
 ## 📌 Features
 
 ## 🧠 Key Concepts Applied
-* ****Constructor:****
+* ****Constructor:**** Sets the address that deploys the contract as the owner.
 
 ## 📂 Project Structure (Files)
 
