@@ -11,6 +11,7 @@
 * ****address (keyword):****  Stores the address of the contract deployer.
 
 ## 📂 Project Structure (Files)
+* ****`WhiteList.sol`****:
 
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)****  - The programming language for writing the Smart contracts.
