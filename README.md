@@ -28,6 +28,7 @@
 
 ## Usage Guide (How to use - When using Remix IDE)
 ### Building the Project (Using Remix IDE):
+1. Copy the core smart contract file code `StudentRegistry.sol` to Remix IDE (a browser based IDE, for quick prototyping).
 
 ## Why This Matters (Whitelist Smart Contract)
 
