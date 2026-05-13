@@ -4,6 +4,7 @@
 * ****Access Control:**** The contract restricts certain actions to approved addresses only.
 * ****Owner Management System:**** Only the contract owner can manage the whitelist.
 * ****Whitelist Address Storage:**** Uses a mapping for storing approved addresses.
+* ****Gas Optimization with Custom Errors:****
 
 ## Benefits
 
