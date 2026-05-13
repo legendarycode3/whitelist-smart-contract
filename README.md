@@ -68,6 +68,7 @@ Here is why they matter:
 * ****ICO/IDOs (Token Sales):****
 * ****Airdrop Distribution:****
 * ****Restricted DeFi Protocols:****
+* ****Secure Asset Withdrawals:****
 
 
 ## Security Considerations
