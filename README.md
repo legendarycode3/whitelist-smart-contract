@@ -45,7 +45,7 @@
 ### Functions:
 * ****`constructor()`****:  Function that sets the owner of the contract.
 * ****`addAddress(address)`****:
-* ****`removeAddress(address)`****: 
+* ****`removeAddress(address)`****:  Function that Checks if a given address is whitelisted.
 
 
 ### Variables:
