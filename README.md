@@ -68,7 +68,7 @@ Here is why they matter:
 * ****ICO/IDOs (Token Sales):****
 * ****Airdrop Distribution:****
 * ****Restricted DeFi Protocols:****
-* ****Secure Asset Withdrawals:**** Exchanges and custody solutions use whitelists to
+* ****Secure Asset Withdrawals:**** Exchanges and custody solutions use whitelists to ensure funds can only be withdrawn to pre-approved, secure wallet addresses,
 * ****Governance Participation:**** Restricting voting rights to trusted stakeholders within a decentralized autonomous organization (DAO) to ensure high-quality, long-term decision-making.
 
 
