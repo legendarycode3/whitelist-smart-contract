@@ -9,6 +9,7 @@
 * ****Custom Error:**** Defined and used custom errors, for gas optimation.
 * ****msg.sender:****  Records who owns the address(e.g the `owner`).
 * ****address (keyword):****  Stores the address of the contract deployer.
+* ****Events:****
 
 ## 📂 Project Structure (Files)
 * ****`WhiteList.sol`****:  The main contract implementing addAddress(), removeAddress() and isWhiteListed() functions.
