@@ -41,6 +41,7 @@
    ```shell
       cd whitelist-smart-contract
     ```
+3.   Compile the smart contract:
 
 ## Why This Matters (Whitelist Smart Contract)
 
