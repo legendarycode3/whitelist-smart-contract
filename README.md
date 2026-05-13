@@ -61,7 +61,7 @@ Here is why they matter:
 1. ****Security & Risk Reduction:**** They prevent fraudulent activity by restricting interaction to trusted wallets, reducing the attack surface for hacks and phishing, and stopping malicious actors from exploiting contracts.
 2. ****Preventing Bot Attacks & Gas Wars:****
 3. ****Managing Exclusivity & Community Loyalty:****
-4. ****Regulatory Compliance (KYC/AML):****
+4. ****Regulatory Compliance (KYC/AML):**** In regulated DeFi or asset tokenization, smart
 
 ## Security Considerations
 
