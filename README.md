@@ -8,8 +8,6 @@
 * ****Event Logging:**** The contract emits events whenever addresses are added or removed.
 * ****Immutable Owner Variable:**** The owner address is immutable after deployment.
  
-## Benefits
-* ****Improved Smart Contract Security:****
 
 ## 🧠 Key Concepts Applied
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
@@ -20,6 +18,9 @@
 * ****address (keyword):****  Stores the address of the contract deployer.
 * ****Events:**** Emitted when an account is added to the whitelist.  Used events to ensure transparency in who has been added or removed from the whitelist.
 * ****Visibility Specifiers:**** Define accessibility and behavior of functions/variables.
+
+## Benefits
+* ****Improved Smart Contract Security:**** Only the owner can manage whitelist permissions.
 
 ## 📂 Project Structure (Files)
 * ****`WhiteList.sol`****:  The main contract implementing addAddress(), removeAddress() and isWhiteListed() functions.
