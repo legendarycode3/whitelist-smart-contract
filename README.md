@@ -1,5 +1,6 @@
 ## Project Overview
-A simple whitelist smart contract manages a list of pre-approved wallet addresses to
+A  whitelist smart contract manages a list of pre-approved wallet addresses to
+grant exclusive, restricted access to on-chain events like NFT presales, token launches,
 
 ## 📌 Features
 * ****Access Control:**** The contract restricts certain actions to approved addresses only.
