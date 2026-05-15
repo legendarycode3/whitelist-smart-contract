@@ -100,8 +100,6 @@ Here is why they matter:
 * ****Governance Participation:**** Restricting voting rights to trusted stakeholders within a decentralized autonomous organization (DAO) to ensure high-quality, long-term decision-making.
 
 
-## Security Considerations
-
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -142,5 +140,5 @@ $ forge snapshot
 Built with ❤️ by [@legendarycode3](https://github.com/legendarycode3/)  </br>
 Part of my  `60 Days of Solidity Challenge`
 
-##  If you find this project helpful, please give it a star and link back to this repository. 
+##  If you find this project helpful,then link back to this repository. 
 `I Appreciate`
