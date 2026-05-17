@@ -82,7 +82,7 @@ grant exclusive, restricted access to on-chain events like NFT presales, token l
 * ****`s_whitelistedAddress`****: Maps addresses to their whitelist status.
 
 ##  Usage Guide (How to use - When using Remix IDE)
-1. ****Compile:**** 
+1. ****Compile:****  Compile the contract.
 
 ## Why This Matters (Whitelist Smart Contract)
 Whitelist Smart Contracts (or Allowlist Smart Contracts) in Web3 are critical because they reverse the "open by default" nature of public blockchains, enabling developers to explicitly pre-approve specific wallet addresses for interaction with a contract. They act as a security and access control mechanism that ensures only vetted, verified, or invited users can participate in high-demand, high-value, or regulated on-chain activities.
