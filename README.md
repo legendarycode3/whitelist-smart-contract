@@ -102,6 +102,9 @@ Here is why they matter:
 * ****Governance Participation:**** Restricting voting rights to trusted stakeholders within a decentralized autonomous organization (DAO) to ensure high-quality, long-term decision-making.
 
 
+## Benefits of  Whitelist Smart Contracts
+* ****Reduction of MEV and:****
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
