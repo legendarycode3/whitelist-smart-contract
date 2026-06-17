@@ -103,7 +103,7 @@ Here is why they matter:
 
 
 ## Benefits of  Whitelist Smart Contracts
-* ****Reduction of MEV and:****
+* ****Reduction of MEV and exploit-based manipulation:****
 
 ## Foundry
 
