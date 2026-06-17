@@ -103,7 +103,7 @@ Here is why they matter:
 
 
 ## Benefits of  Whitelist Smart Contracts
-* ****Reduction of MEV and exploit-based manipulation:**** Restricting access to certain functions can reduce opportunities for front-running, sandwich attacks,
+* ****Reduction of MEV and exploit-based manipulation:**** Restricting access to certain functions can reduce opportunities for front-running, sandwich attacks, or liquidation gaming,
 * ****Fine-grained role-based permission design:****
 * ****Emergency control and incident response capability:****
 
